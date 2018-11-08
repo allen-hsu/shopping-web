@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],[function(o,n,l){"use strict";console.log("i am global")},function(o,n,l){},function(o,n,l){"use strict";l(1),l(0),console.log("Hello index")},function(o,n){console.log("Hello login")}]]);
